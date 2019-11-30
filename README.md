@@ -1,4 +1,4 @@
-﻿##Deployed Link
+﻿## Deployed Link
 
 https://aminakhtar5595.github.io/React-Traffic-Signal/
 
